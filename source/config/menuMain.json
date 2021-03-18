@@ -57,7 +57,7 @@
     ]
   },
   {
-    "icon": "fa fa-play-circle",
+    "icon": "fa fa-question-circle",
     "slug": "tema-3",
     "title": "3. Aplicación práctica",
     "path": "pages/tema-3.html" 
